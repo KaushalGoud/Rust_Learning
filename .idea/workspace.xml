@@ -17,9 +17,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7aef809c-571a-42f1-aa5f-aeeec084e384" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/day2_cargo/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/day2_cargo/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2_cargo/target/.rustc_info.json" beforeDir="false" afterPath="$PROJECT_DIR$/day2_cargo/target/.rustc_info.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/day2_cargo/target/flycheck0/stderr" beforeDir="false" afterPath="$PROJECT_DIR$/day2_cargo/target/flycheck0/stderr" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/variables/src/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/variables/src/main.rs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
